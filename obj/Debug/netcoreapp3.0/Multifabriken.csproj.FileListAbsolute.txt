@@ -1,0 +1,11 @@
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/01. Examinerande inlämningsuppgifter/Multifabriken/bin/Debug/netcoreapp3.0/Multifabriken
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/01. Examinerande inlämningsuppgifter/Multifabriken/bin/Debug/netcoreapp3.0/Multifabriken.dll
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/01. Examinerande inlämningsuppgifter/Multifabriken/bin/Debug/netcoreapp3.0/Multifabriken.pdb
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/01. Examinerande inlämningsuppgifter/Multifabriken/obj/Debug/netcoreapp3.0/Multifabriken.csprojAssemblyReference.cache
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/01. Examinerande inlämningsuppgifter/Multifabriken/obj/Debug/netcoreapp3.0/Multifabriken.AssemblyInfoInputs.cache
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/01. Examinerande inlämningsuppgifter/Multifabriken/obj/Debug/netcoreapp3.0/Multifabriken.AssemblyInfo.cs
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/01. Examinerande inlämningsuppgifter/Multifabriken/obj/Debug/netcoreapp3.0/Multifabriken.dll
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/01. Examinerande inlämningsuppgifter/Multifabriken/obj/Debug/netcoreapp3.0/Multifabriken.pdb
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/01. Examinerande inlämningsuppgifter/Multifabriken/bin/Debug/netcoreapp3.0/Multifabriken.deps.json
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/01. Examinerande inlämningsuppgifter/Multifabriken/bin/Debug/netcoreapp3.0/Multifabriken.runtimeconfig.json
+/Users/edisogorovic/Dropbox/05. Campus Värnamo/02. C#/01. Repon/01. Examinerande inlämningsuppgifter/Multifabriken/bin/Debug/netcoreapp3.0/Multifabriken.runtimeconfig.dev.json
